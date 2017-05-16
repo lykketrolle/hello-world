@@ -1,0 +1,6 @@
+'''
+Name:
+Mail:
+'''
+
+#Stat coding
