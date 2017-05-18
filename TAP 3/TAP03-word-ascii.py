@@ -5,7 +5,7 @@ Made by: Kjell Chr. Larsen
 Date: 16.05.2017
 """
 
-print("Make a program that let the user type in a letter and find the ASCII code for the \
+print("Make a program that let the user type in a letter and find the ASCII code for the\
 letter. \nContinue to implement a way to let the user type in a number (ASCII code)\
 and print out the correct symbol.")
 print()
